@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/硬件知识/硬件工具/AD使用元件库altium_dblib/"}
+{"dg-publish":true,"permalink":"/硬件知识/硬件工具/AD使用元件库altium_dblib/","tags":["gardenEntry"]}
 ---
 
 使用Altium Designer数据库DatabaseLib功能可以方便地把元器件与公司内的原理图库、PCB库以及器件的参数进行链接，减少人为操作的失误，并可提高输出BOM的工作效率。虽然数据库的维护刚开始的时候工作量比较繁重，但随着元件库的扩大，维护工作会越来越少，前期的投入是值得的。
