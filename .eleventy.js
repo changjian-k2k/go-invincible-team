@@ -45,7 +45,8 @@ function getAnchorAttributes(filePath, linkTitle) {
 
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   const title = linkTitle ? linkTitle : fileName;
-  let permalink = `/notes/${slugify(filePath)}`;
+  let permalink = `/notes/${fileName}`;
+//   let permalink = `/notes/${slugify(filePath)}`;
   let deadLink = false;
   try {
     const startPath = "./src/site/notes/";
